@@ -1,0 +1,6 @@
+{
+  "name": "Hôtel de Rêve - Gestion Hôtelière",
+  "description": "Application professionnelle de gestion pour l'Hôtel de Rêve : chambres, clients, réservations, check-in, check-out, facturation, paiements et rapports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
